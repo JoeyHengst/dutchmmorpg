@@ -15,7 +15,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@dutch-mmorpg/auth": ["libs/auth/src/index.ts"],
+      "@dutch-mmorpg/shared": ["libs/shared/src/index.ts"],
+      "@dutch-mmorpg/game": ["libs/game/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

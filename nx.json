@@ -13,6 +13,15 @@
     },
     "mmorpg": {
       "tags": []
+    },
+    "auth": {
+      "tags": []
+    },
+    "shared": {
+      "tags": []
+    },
+    "game": {
+      "tags": []
     }
   }
 }
