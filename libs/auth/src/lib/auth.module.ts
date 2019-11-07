@@ -6,7 +6,6 @@ import { AngularFireStorageModule } from '@angular/fire/storage';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 
 const config = {
-  apiKey: 'AIzaSyC2Mu9sAFwCDKSM2tQjtwdjHAXLJ6ZWolw',
   authDomain: 'dutch-mmorpg.firebaseapp.com',
   databaseURL: 'https://dutch-mmorpg.firebaseio.com',
   projectId: 'dutch-mmorpg',
